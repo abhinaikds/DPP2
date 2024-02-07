@@ -4,3 +4,5 @@ numpy
 seaborn
 plotly
 matplotlib
+
+-e .
